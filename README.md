@@ -43,7 +43,7 @@ Passwall — это основной шлюз. Его нет в стандарт
 **Вариант А (Простой):** Прошейте сборку (например, от **ImmortalWrt** или **4PDA**), где Passwall уже встроен.
 **Вариант Б (Ручной):** 
 1. Узнайте архитектуру вашего процессора: `opkg print-architecture`.
-2. Скачайте соответствующие пакеты `.ipk` (xray-core, luci-app-passwall и др.) из [официального репозитория](https://github.com/xiaorouji/openwrt-passwall/releases).
+2. Скачайте соответствующие пакеты `.ipk` (xray-core, luci-app-passwall и др.) из [официального репозитория]([https://github.com/xiaorouji/openwrt-passwall/releases](https://github.com/Openwrt-Passwall/openwrt-passwall2)).
 3. Установите их командой `opkg install <название_файла>.ipk`.
 
 ---
